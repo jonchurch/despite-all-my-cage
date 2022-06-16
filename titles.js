@@ -1,4 +1,4 @@
-[
+export default [
   "A Score to Settle",
   "Spider-Man: Into the Spider-Verse",
   "Between Worlds",

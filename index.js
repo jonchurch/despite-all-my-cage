@@ -1,4 +1,4 @@
-import titlesData from "./titles.json";
+import titlesData from "./titles.js";
 
 // (async () => {
 //   const sentences = new Array(10)
